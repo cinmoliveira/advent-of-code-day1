@@ -4,9 +4,9 @@ The challenge is available [here](https://adventofcode.com/2024/day/1)
 
 *O desafio está disponível* [aqui](https://adventofcode.com/2024/day/1)
 
-##[First day code](#AdventofCode2024/DayOne.cpp)
+## [First day code](#AdventofCode2024/DayOne.cpp)
 
-##[Código do primeiro dia](#AdventofCode2024/DayOne.cpp)
+## [Código do primeiro dia](#AdventofCode2024/DayOne.cpp)
 
 ## Observations (Observações):
 The inputs are available only to those who are log to make the challenge. 
